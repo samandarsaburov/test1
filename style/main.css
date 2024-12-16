@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.conatiner {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.bacround {
+  background-image: url("../images/bacround.png");
+  height: 435px;
+}
+
+.bacround-btn {
+  margin-top: 332px;
+  margin-left: 656px;
+  background: rgb(180, 95, 77);
+  padding: 10px 20px;
+  border: none;
+  color: rgb(255, 255, 255);
+
+  font-size: 17px;
+}
